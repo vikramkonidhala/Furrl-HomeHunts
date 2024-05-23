@@ -46,4 +46,4 @@ Furrl seamlessly fetches product data from a designated API endpoint:
 
 ## Live Demo
 
-A live demo of the Furrl application is available on Github Pages: [Furrl-Homehunts](https://vikramkonidhala.github.io/Furrl-Homehunts/)
+A live demo of the Furrl application is available on Github Pages: [Furrl-Homehunts](https://furrl-homehuntsbyvikram.netlify.app/)
